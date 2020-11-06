@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_mute_vjs-icon-placeholder</name>
+   <tag></tag>
+   <elementGuidId>85bd94b7-febc-4d42-9a0e-e2d3b2e23a9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='example-video']/div[4]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.vjs-mute-control.vjs-control.vjs-button.vjs-vol-3 > span.vjs-icon-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vjs-icon-placeholder</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example-video&quot;)/div[@class=&quot;vjs-control-bar&quot;]/div[@class=&quot;vjs-volume-panel vjs-control vjs-volume-panel-horizontal vjs-hover&quot;]/button[@class=&quot;vjs-mute-control vjs-control vjs-button vjs-vol-3&quot;]/span[@class=&quot;vjs-icon-placeholder&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='example-video']/div[4]/div/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>
